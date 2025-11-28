@@ -1,6 +1,0 @@
-tqdm
-numpy
-pyserini
-torch
-sentence-transformers
-transformers
